@@ -16,4 +16,4 @@ You can follow my professional trajectory on Linkedin by clicking link.  [![Link
 ![Top    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact&show_icons=true&theme=dracula)
 
 
-![Anurag's GitHub       stats](https://github-readme-stats.vercel.app/api?username=marciodanielll&show_icons=true&theme=radical)
+![Anurag's GitHub       stats](https://github-readme-stats.vercel.app/api?username=marciodanielll&show_icons=true&theme=dracula)
