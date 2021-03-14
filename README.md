@@ -1,4 +1,5 @@
 # Hello! I'm Daniel
+
 I'm a country boy who lives in São Paulo, Brazil.
 I really like to build things and solve problems. 
 #
@@ -11,9 +12,8 @@ You can follow my professional trajectory on Linkedin by clicking link.  [![Link
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg)![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg)
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg)![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/vue.svg)
 
-![Top    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact)
+
+![Top    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact&show_icons=true&theme=dracula)
 
 
-
-# 
 ![Anurag's GitHub       stats](https://github-readme-stats.vercel.app/api?username=marciodanielll&show_icons=true&theme=radical)
