@@ -1,6 +1,6 @@
 # Hello World! I'm Daniel
 
-Eu cresci no interior e moro em São Paulo Capital.
+Eu cresci no interior e moro na Capital de São Paulo.
 Eu gosto muito de criar soluções e resolver problemas.
 
 I'm a country boy who lives in São Paulo, Brazil.
