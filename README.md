@@ -10,7 +10,7 @@ Você pode ver mais sobre minha trajetória profissional clicando no meu [![Link
 I'm a country boy who lives in São Paulo, Brazil.
 I really like to build things and solve problems. 
 
-You can follow my professional trajectory clicking.  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielherminio/ "https://www.linkedin.com/in/marciodanielherminio/")
+You can follow my professional trajectory clicking  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielherminio/ "https://www.linkedin.com/in/marciodanielherminio/")
 
 #
 
