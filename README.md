@@ -3,7 +3,7 @@
 Eu cresci no interior e moro na Capital de São Paulo.
 Eu gosto muito de criar soluções e resolver problemas.
 
-Você pode ver mais sobre minha trajetória profissional clicando no meu [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielll// "https://www.linkedin.com/in/marciodanielll/")
+Você pode ver mais sobre minha trajetória profissional clicando no meu [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielll/ "https://www.linkedin.com/in/marciodanielll/")
 
 #
 
