@@ -17,7 +17,7 @@ Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
 <section style="">
   <a href="https://www.linkedin.com/in/marciodanielll">
   <img src="svg/linkedin.svg" alt="linkedin" style="">
-  <a href="https://api.whatsapp.com/send?phone=551197227254">
+  <a href="https://api.whatsapp.com/send?phone=5511972272544">
   <img src="svg/whatsapp.svg" alt="whatsapp" style="">
   </a>
 </section>
