@@ -3,14 +3,15 @@
 Eu cresci no interior e moro na Capital de São Paulo.
 Eu gosto muito de criar soluções e resolver problemas.
 
-Você pode ver mais sobre minha trajetória profissional clicando no meu [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielll/ "https://www.linkedin.com/in/marciodanielll/")
-
 #
 
 I'm a country boy who lives in São Paulo, Brazil.
 I really like to build things and solve problems. 
 
-You can contact me here [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielll/ "https://www.linkedin.com/in/marciodanielll/")
+# 
+Você pode conferir minha trajetória profissonal no meu linkedin
+You can contact me in Likedin
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielll/ "https://www.linkedin.com/in/marciodanielll/")
 
 #
 
