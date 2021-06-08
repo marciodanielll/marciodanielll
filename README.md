@@ -1,10 +1,18 @@
 <header style="">
 
-<h1 style="">Olá, eu sou o Daniel</h1>
+<h1 style="">Daniel</h1>
 
 <h3 style="" >
 Estudante de Desenvolvimento Web e Summer Job | <a href="https://www.betrybe.com">Trybe</a> 
 </h3>
+
+<section style="">
+<p style="" >
+Atualmente me encontro estudando o Módulo de Back-end.<br>
+Atuo também como Monitor no Módulo de Front-end.<br>
+Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
+</p>
+</section>
 
 <section style="">
   <a href="https://www.linkedin.com/in/marciodanielll">
@@ -18,13 +26,9 @@ Estudante de Desenvolvimento Web e Summer Job | <a href="https://www.betrybe.com
 
 <main style="">
 
-<section style="">
-<p style="" >
-Atualmente me encontro estudando o Módulo de Back-end.<br>
-Atuo também como Monitor no Módulo de Front-end.<br>
-Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
-</p>
-</section>
+<br/>
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact&show_icons=true&theme=dark)
 
 <section style="">
 <h4 style=""> Core </h4>
@@ -67,9 +71,6 @@ Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
   <h4>Learning</h4>
   <img src="svg/typescript.svg" alt="typescript icon" style="">
 </main>
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciodanielll&show_icons=true&theme=dark)
 
 <footer> <p>Em construção...</p> </footer>
 
