@@ -3,7 +3,7 @@
 <h1 style="">Daniel</h1>
 
 <h3 style="" >
-Estudante de Desenvolvimento Web e Summer Job | <a href="https://www.betrybe.com">Trybe</a> 
+Estudante de Desenvolvimento Web e Summer Job na <a href="https://www.betrybe.com">Trybe</a> 
 </h3>
 
 <section style="">
