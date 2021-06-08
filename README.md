@@ -9,8 +9,7 @@ I'm a country boy who lives in São Paulo, Brazil.
 I really like to build things and solve problems. 
 
 # 
-Você pode conferir minha trajetória profissonal no meu linkedin - 
-Contact me
+Contact me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielll/ "https://www.linkedin.com/in/marciodanielll/")
 
 #
