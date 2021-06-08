@@ -1,25 +1,75 @@
-# Hello World! I'm Daniel
+<header style="">
 
-Eu cresci no interior e moro na Capital de São Paulo.
-Eu gosto muito de criar soluções e resolver problemas.
+<h1 style="">Márcio Daniel</h1>
 
-#
+<h3 style="" >
+Estudante de Desenvolvimento Web e Summer Job | <a href="https://www.betrybe.com">Trybe</a> 
+</h3>
 
-I'm a country boy who lives in São Paulo, Brazil.
-I really like to build things and solve problems. 
+<section style="">
+  <a href="https://www.linkedin.com/in/marciodanielll">
+  <img src="svg/linkedin.svg" alt="linkedin" style="">
+  <a href="https://api.whatsapp.com/send?phone=551197227254">
+  <img src="svg/whatsapp.svg" alt="whatsapp" style="">
+  </a>
+</section>
 
-# 
-Contact me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/marciodanielll/ "https://www.linkedin.com/in/marciodanielll/")
+</header>
 
-#
+<main style="">
 
-![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg)![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg)
-![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg)![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg)
+<section style="">
+<p style="" >
+Atualmente me encontro estudando o Módulo de Back-end.<br>
+Atuo também como Monitor no Módulo de Front-end.<br>
+Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
+</p>
+</section>
 
+<section style="">
+<h4 style=""> Core </h4>
+<div>
+  <img src="svg/javascript.svg" alt="javascript icon" style=""> 
+  <img src="svg/bash.svg" alt="bash icon" style="">
+  <img src="svg/vscode.svg" alt="vscode icon" style="">
+  <img src="svg/git.svg" alt="git icon" style="">
+  <img src="svg/github.svg" alt="github icon" style="">
+</div>
+</section>
 
+<section>
+<h4>Front-end</h4>
+<div>
+  <img src="svg/reactjs.svg" alt="react icon" style="">
+  <img src="svg/reactrouter.svg" alt="react router icon" style="">
+  <img src="svg/redux.svg" alt="redux icon" style="">
+  <img src="svg/html.svg" alt="html icon" style="">
+  <img src="svg/css.svg" alt="css icon" style="">
+</div>
+</section>
 
-![Top    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact&show_icons=true&theme=dark)
+<section>
+<h4>Back-end</h4>
+<div>
+  <img src="svg/mysql.svg" alt="mysql icon" style="">
+  <img src="svg/mongodb.svg" alt="mongodb icon " style="">
+  <img src="svg/nodejs.svg" alt="node icon" style="">
+  <img src="svg/expressjs.svg" alt="express icon" style="">
+</div>
+</section>
 
+</section>
+  <h4>Testing</h4>
+  <img src="svg/jest.svg" alt="jest icon" style="">
+</main>
 
-![Anurag's GitHub       stats](https://github-readme-stats.vercel.app/api?username=marciodanielll&show_icons=true&theme=dark)
+</section>
+  <h4>Learning</h4>
+  <img src="svg/typescript.svg" alt="typescript icon" style="">
+</main>
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciodanielll&show_icons=true&theme=dark)
+
+<footer> <p>Em construção...</p> </footer>
+
