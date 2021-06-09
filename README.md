@@ -1,6 +1,14 @@
 <header style="">
 
 <h1 style="">Daniel</h1>
+  
+<section style="margin: 0; margin-bottom: 20px">
+  <a href="https://www.linkedin.com/in/marciodanielll">
+  <img src="svg/linkedin.svg" alt="linkedin" style="">
+  <a href="https://api.whatsapp.com/send?phone=5511972272544">
+  <img src="svg/whatsapp.svg" alt="whatsapp" style="">
+  </a>
+</section>
 
 <h3 style="" >
 Estudante de Desenvolvimento Web e Summer Job na <a href="https://www.betrybe.com">Trybe</a> 
@@ -13,15 +21,7 @@ Atuo também como Monitor no Módulo de Front-end.<br>
 Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
 </p>
 </section>
-
-<section style="margin: 0; margin-bottom: 20px">
-  <a href="https://www.linkedin.com/in/marciodanielll">
-  <img src="svg/linkedin.svg" alt="linkedin" style="">
-  <a href="https://api.whatsapp.com/send?phone=5511972272544">
-  <img src="svg/whatsapp.svg" alt="whatsapp" style="">
-  </a>
-</section>
-
+  
 </header>
 
 <main>
