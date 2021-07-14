@@ -75,4 +75,7 @@ Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
 </section>
 </main>
 
-<footer> <p>Em construção...</p> </footer>
+<footer>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=marciodanielll" /> </p>
+  <p>Em construção...</p> 
+</footer>
