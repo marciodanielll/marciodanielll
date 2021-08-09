@@ -12,7 +12,7 @@
   
 <h3 style="" >
 Estudante de Desenvolvimento Web e Summer Job na <a href="https://www.betrybe.com">Trybe</a> <br><br>
-Aberto para projetos em <b>NodeJS</b>
+Aberto para projetos em <b>NodeJS</b> ou quaisquer outros em back-end
 </h3>
 </header>
 
