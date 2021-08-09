@@ -15,15 +15,6 @@
 <h3 style="" >
 Estudante de Desenvolvimento Web e Summer Job na <a href="https://www.betrybe.com">Trybe</a> 
 </h3>
-
-<section style="">
-<p style="margin: 20px 0; padding: 0;" >
-Atualmente me encontro estudando o Módulo de Back-end.<br>
-Atuo também como Monitor no Módulo de Front-end.<br>
-Sou um apaixonado por <b>React</b> tendo um caso de amor com  <b>Node</b>.
-</p>
-</section>
-  
 </header>
 
 <main>
