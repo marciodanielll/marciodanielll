@@ -11,7 +11,7 @@
 </h1>
   
 <h3 style="" >
-Estudante de Desenvolvimento Web e Summer Job na <a href="https://www.betrybe.com">Trybe</a> 
+Estudante de Desenvolvimento Web e Summer Job na <a href="https://www.betrybe.com">Trybe</a> <br>
 Aberto para projeto em <b>NodeJS</b>
 </h3>
 </header>
