@@ -10,15 +10,9 @@
   </section>   
 </h1>
   
-
-<section style="">
-<p style="margin: 20px 0; padding: 0;" >
-Interessado em projetos <b>NodeJS</b>.
-</p>
-</section>
-
 <h3 style="" >
 Estudante de Desenvolvimento Web e Summer Job na <a href="https://www.betrybe.com">Trybe</a> 
+Aberto para projeto em <b>NodeJS</b>
 </h3>
 </header>
 
