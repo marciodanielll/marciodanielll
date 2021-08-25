@@ -4,7 +4,7 @@
   <section style="margin: 0; margin-bottom: 20px">
     <a href="https://www.linkedin.com/in/marciodanielll">
     <img src="svg/linkedin.svg" alt="linkedin" style="">
-    <a href="https://api.whatsapp.com/send?phone=5511972272544">
+    <a href="https://api.whatsapp.com/send?phone=5511995885088">
     <img src="svg/whatsapp.svg" alt="whatsapp" style="">
     </a>
   </section>   
