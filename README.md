@@ -10,11 +10,8 @@
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodanielll&layout=compact&show_icons=true&theme=dark)
 
 <section style="">
-<h2 style="margin-bottom: 0"> Core </h2>
-<div>
+  <h2 style="margin-bottom: 0"> Core </h2>
   <img src="svg/javascript.svg" alt="javascript icon" style=""> 
-
-</div>
 </section>
 
 <section>
