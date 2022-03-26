@@ -44,7 +44,6 @@
   <h2 style="margin-bottom: 0" >Learning</h2>
   <img src="svg/typescript.svg" alt="typescript icon" style="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python icon" style="">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell script icon" style="">
 </section>
 
 </main>
