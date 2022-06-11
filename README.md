@@ -44,6 +44,7 @@
 
 <section>
   <h2 style="margin-bottom: 0" >Learning</h2>
+  <img src=" https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="elixir icon" style="">
 </section>
 
 </main>
