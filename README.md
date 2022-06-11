@@ -13,6 +13,8 @@
   <h2 style="margin-bottom: 0"> Core </h2>
   <img src="svg/javascript.svg" alt="javascript icon" style=""> 
   <img src="svg/typescript.svg" alt="typescript icon" style="">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git icon" style="">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker icon" style="">
 </section>
 
 <section>
