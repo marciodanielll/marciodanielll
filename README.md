@@ -33,6 +33,7 @@
   <img src="svg/mysql.svg" alt="mysql icon" style="">
   <img src="svg/mongodb.svg" alt="mongodb icon " style="">
   <img src="svg/nodejs.svg" alt="node icon" style="">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt icon" style="">
   <img src="svg/expressjs.svg" alt="express icon" style="">
 </div>
 </section>
