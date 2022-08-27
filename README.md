@@ -31,7 +31,9 @@
 <h2 style="margin-bottom: 0">Back-end</h2>
 <div>
   <img src="svg/mysql.svg" alt="mysql icon" style="">
+  <img src="https://camo.githubusercontent.com/6c50eb6f911b1bcb4c0b790fb5e908bf896c525685839fa802c41349dcd1c8bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d53657175656c697a65266c6f676f436f6c6f723d7768697465" alt="squelize icon" style="">
   <img src="svg/mongodb.svg" alt="mongodb icon " style="">
+   <img src="https://camo.githubusercontent.com/16c5d674d150e47e77738a333e74716023295715c956aaf84615cef3f50675ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465" alt="redis icon " style="">
   <img src="svg/nodejs.svg" alt="node icon" style="">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt icon" style="">
   <img src="svg/expressjs.svg" alt="express icon" style="">
@@ -41,6 +43,9 @@
 <section>
   <h2 style="margin-bottom: 0">Testing</h2>
   <img src="svg/jest.svg" alt="jest icon" style="">
+  <img src="https://camo.githubusercontent.com/16c5d674d150e47e77738a333e74716023295715c956aaf84615cef3f50675ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465" alt="mocha icon" style="">
+    <img src="https://camo.githubusercontent.com/3c6e596d244ccb5b491bad3c050bb238eace57fc78243db4e48a3b7e21dc7aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465" alt="mocha icon" style="">
+  
 </section>
 
 <section>
