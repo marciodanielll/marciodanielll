@@ -43,7 +43,7 @@
 <section>
   <h2 style="margin-bottom: 0">Testing</h2>
   <img src="svg/jest.svg" alt="jest icon" style="">
-  <img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465" alt="mocha icon" style="">
+  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai icon" style="">
     <img src="https://camo.githubusercontent.com/6fe498dfa70e4536cc46563b07b45425937dffc1cd5433771cdd0a4770928cac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6368612d3844363734383f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f636861266c6f676f436f6c6f723d7768697465" alt="mocha icon" style="">
   
 </section>
