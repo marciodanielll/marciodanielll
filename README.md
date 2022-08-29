@@ -23,7 +23,7 @@
   <img src="svg/reactjs.svg" alt="react icon" style="">
   <img src="svg/reactrouter.svg" alt="react router icon" style="">
   <img src="svg/redux.svg" alt="redux icon" style="">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="style componets icon" style="">
+ <style="">
 </div>
 </section>
 
