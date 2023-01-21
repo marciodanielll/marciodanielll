@@ -39,7 +39,7 @@
 2. [Frontend -BR](https://github.com/frontendbr/vagas)
 
 ## Mais importantes
-1. [Awesome](https://github.com/sindresorhus/awesome) - Incrível, quase tudo em único lugar. 
+1. [Awesome](https://github.com/sindresorhus/awesome) - Incrível, quase tudo em um único lugar. 
 2. [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap para desenvolvedores.
 3. [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook) - Guia de entrevista técnica.
 4. [Javascript Interview Questions](https://github.com/sudheerj/Javascript-interview-questions) - Uma coleção de perguntas de entrevista comuns para desenvolvedores Javascript.
