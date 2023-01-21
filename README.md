@@ -34,6 +34,17 @@
 
 ## Minha lista de repositório preferidos da comunidade aqui no Github
 
+## Vagas de trabalho
+1. [Backend -BR](https://github.com/backend-br/vagas)
+2. [Frontend -BR](https://github.com/frontendbr/vagas)
+
+## Mais importantes
+1. [Awesome](https://github.com/sindresorhus/awesome) - Incrível, quase tudo em único lugar. 
+2. [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap para desenvolvedores.
+3. [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook) - Guia de entrevista técnica.
+4. [Javascript Interview Questions](https://github.com/sudheerj/Javascript-interview-questions) - Uma coleção de perguntas de entrevista comuns para desenvolvedores Javascript.
+
+----
 ## Javascript
 <details>
   <summary><strong>Clique aqui para ver a lista.</strong></summary>
@@ -82,6 +93,33 @@
 
 22. [In Javascript We Trust](https://github.com/yeungon/In-Javascript-we-trust) - Um guia para aprender e entender Javascript.
 
+23. [Eslint config trybe](https://github.com/betrybe/eslint-config-trybe) - Configuração do ESLint com as regras da Trybe.
+
+</details>
+
+## Gerais
+<details>
+  <summary><strong>Clique aqui para ver a lista.</strong></summary>
+
+1. [Build your own x](https://github.com/codecrafters-io/build-your-own-x) - Construa projetos nas mais diversas tecnologias.
+
+2. [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know) - Tudo o que um Dev deveria saber.
+
+3. [The art of command line](https://github.com/jlevy/the-art-of-command-line) - A arte da linha de comando.
+
+4. [How web works](https://github.com/vasanthk/how-web-works) - Como a web funciona.
+
+5. [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Guia de nomenclatura para variáveis, funções e etc..
+
+6. [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Adicionando "ícones" ao seu perfil do GitHub.
+
+7. [Github readme stats](https://github.com/anuraghazra/github-readme-stats) - Estatísticas para seu perfil do Github.
+
+8. [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Guia de emojis.
+
+9. [App ideas](https://github.com/florinpop17/app-ideas) - Ideias para criar seus aplicativos/projetos.
+
+10. [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Trechos curtos de código Javascript para todas as suas necessidades de desenvolvimento.
 </details>
 
 ----
