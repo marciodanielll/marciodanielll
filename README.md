@@ -34,7 +34,6 @@
 
 ## Minha lista de repositório preferidos da comunidade aqui no Github
 
-## [O Repositório de tudo](https://github.com/sindresorhus/awesome)
 ----
 ## Javascript
 <details>
