@@ -44,7 +44,6 @@
 3. [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook) - Guia de entrevista técnica.
 4. [Javascript Interview Questions](https://github.com/sudheerj/Javascript-interview-questions) - Uma coleção de perguntas de entrevista comuns para desenvolvedores Javascript.
 
-----
 ## Javascript
 <details>
   <summary><strong>Clique aqui para ver a lista.</strong></summary>
