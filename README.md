@@ -34,7 +34,6 @@
 
 ## Minha lista de repositório preferidos da comunidade aqui no Github
 
-----
 ## Javascript
 <details>
   <summary><strong>Clique aqui para ver a lista.</strong></summary>
