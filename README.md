@@ -32,7 +32,7 @@
 
 -----
 
-## Minha lista de repositório preferidos do Github
+## Minha lista de repositório preferidos no Github
 
 ## Vagas de trabalho
 1. [Backend -BR](https://github.com/backend-br/vagas)
