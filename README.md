@@ -1,5 +1,5 @@
 # M.D. backend developer  👨‍💻
-🇬🇧 I'm Daniel, also known as M.D., and I am a programmer.
+🇬🇧 I'm Daniel, also known as M.D., and I'm a programmer.
 You can learn more about my professional journey on my LinkedIn profile.
 
 🇧🇷 Eu sou o Daniel, conhecido como M.D. sou programandor. 
