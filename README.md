@@ -3,7 +3,7 @@
 
 ---
 
-🇧🇷 Eu sou o ```Daniel```, conhecido como ```M.D.```, sou um programador apaixonado por resolver problemas. 
+Eu sou o ```Daniel```, conhecido como ```M.D.```, sou um programador apaixonado por resolver problemas. 
 
 Além de meu amor pela programação, tenho interesses por esportes, especialmente futebol e Fórmula 1.
 
@@ -16,17 +16,6 @@ Conheça mais sobre minha trajetória profissional em meu LinkedIn e contate-me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciodanielll)
 
 ----
-🇺🇸 I am Daniel, known as M.D., I am a programmer who enjoys solving problems.
-
-Aside from my love for programming, I have interests in sports, particularly football and Formula 1.
-
-In my free time, I like to play online chess and watch some TV shows.
-
-I am open to opportunities to contribute to open-source projects and volunteer work that support the community.
-
-Learn more about my professional journey on my LinkedIn, you can contact me there. 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciodanielll)
 
 -----
 ## Core
