@@ -56,7 +56,6 @@ Learn more about my professional journey on my LinkedIn, you can contact me ther
 ![chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
-## Learning
 
 ---
 ## More
