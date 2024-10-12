@@ -2,16 +2,6 @@
 
 ---
 
-I am ```Daniel```, also known as ```M.D.```, a programmer passionate about solving problems.
-
-Besides my love for programming, I have interests in sports, especially football and Formula 1.
-
-In my free time, I enjoy playing chess online and watching some series.
-
-I am open to opportunities to contribute to open-source projects and volunteer work that supports the community.
-
-Learn more about my professional journey on my LinkedIn and contact me there.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciodanielll)
 
 ----
